@@ -84,7 +84,7 @@ const DataTable = () => {
           value={search}
           onChange={handleSearch}
           type="text"
-          placeholder="🔍 Search..."
+          placeholder="Search..."
           className="border p-2 rounded-md w-1/3 focus:ring-2 focus:ring-blue-400 outline-none transition"
         />
 
